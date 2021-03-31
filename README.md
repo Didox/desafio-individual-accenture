@@ -24,3 +24,4 @@ na lista de pedidos clicar no itens e cadastrar o produto ao pedido <br>
 Selecionar produto e valor <br>
  - Produto <br>
  - Valor <br>
+Finalizando o pedido
